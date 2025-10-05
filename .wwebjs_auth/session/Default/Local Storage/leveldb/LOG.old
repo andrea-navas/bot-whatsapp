@@ -1,0 +1,15 @@
+2025/10/05-15:03:35.165 5fa8 Reusing MANIFEST C:\Logistica\bot-whatsapp\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/05-15:03:35.166 5fa8 Recovering log #16
+2025/10/05-15:03:35.168 5fa8 Reusing old log C:\Logistica\bot-whatsapp\.wwebjs_auth\session\Default\Local Storage\leveldb/000016.log 
+2025/10/05-15:05:39.215 9b30 Level-0 table #20: started
+2025/10/05-15:05:39.221 9b30 Level-0 table #20: 14186 bytes OK
+2025/10/05-15:05:39.225 9b30 Delete type=0 #16
+2025/10/05-15:05:39.227 9b30 Compacting 4@0 + 1@1 files
+2025/10/05-15:05:39.233 9b30 Generated table #21@0: 137 keys, 4366 bytes
+2025/10/05-15:05:39.233 9b30 Compacted 4@0 + 1@1 files => 4366 bytes
+2025/10/05-15:05:39.234 9b30 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/05-15:05:39.235 9b30 Delete type=2 #8
+2025/10/05-15:05:39.235 9b30 Delete type=2 #11
+2025/10/05-15:05:39.236 9b30 Delete type=2 #13
+2025/10/05-15:05:39.237 9b30 Delete type=2 #17
+2025/10/05-15:05:39.237 9b30 Delete type=2 #20

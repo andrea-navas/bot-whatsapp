@@ -1,0 +1,27 @@
+2025/10/05-15:03:35.853 a114 Reusing MANIFEST C:\Logistica\bot-whatsapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/05-15:03:35.856 a114 Recovering log #596
+2025/10/05-15:03:36.033 a114 Reusing old log C:\Logistica\bot-whatsapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000596.log 
+2025/10/05-15:03:41.804 6d4 Level-0 table #608: started
+2025/10/05-15:03:41.832 6d4 Level-0 table #608: 580552 bytes OK
+2025/10/05-15:03:41.834 6d4 Delete type=0 #596
+2025/10/05-15:03:41.837 6d4 Manual compaction at level-0 from '\x00=\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00>\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/05-15:03:46.974 5fa8 Compacting 1@1 + 8@2 files
+2025/10/05-15:03:47.212 5fa8 Generated table #609@1: 86181 keys, 2233759 bytes
+2025/10/05-15:03:47.356 5fa8 Generated table #610@1: 25979 keys, 2198977 bytes
+2025/10/05-15:03:47.464 5fa8 Generated table #611@1: 2094 keys, 2151693 bytes
+2025/10/05-15:03:47.630 5fa8 Generated table #612@1: 11293 keys, 2188570 bytes
+2025/10/05-15:03:47.874 5fa8 Generated table #613@1: 30804 keys, 2253355 bytes
+2025/10/05-15:03:47.999 5fa8 Generated table #614@1: 12862 keys, 2157129 bytes
+2025/10/05-15:03:48.248 5fa8 Generated table #615@1: 90184 keys, 2237301 bytes
+2025/10/05-15:03:48.573 5fa8 Generated table #616@1: 104575 keys, 2197699 bytes
+2025/10/05-15:03:48.573 5fa8 Compacted 1@1 + 8@2 files => 17618483 bytes
+2025/10/05-15:03:48.574 5fa8 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/10/05-15:03:48.575 5fa8 Delete type=2 #598
+2025/10/05-15:03:48.575 5fa8 Delete type=2 #599
+2025/10/05-15:03:48.575 5fa8 Delete type=2 #600
+2025/10/05-15:03:48.576 5fa8 Delete type=2 #601
+2025/10/05-15:03:48.576 5fa8 Delete type=2 #602
+2025/10/05-15:03:48.576 5fa8 Delete type=2 #603
+2025/10/05-15:03:48.576 5fa8 Delete type=2 #604
+2025/10/05-15:03:48.576 5fa8 Delete type=2 #605
+2025/10/05-15:03:48.576 5fa8 Delete type=2 #608
