@@ -13,8 +13,9 @@ const firebaseConfig = {
     messagingSenderId: "652586987001",
     appId: "1:652586987001:web:31a5dcc73ff78c0ceea128"
 };
-const app = initializeApp(firebaseConfig);
-const db = getDatabase(app);
+const firebaseApp = initializeApp(firebaseConfig);
+const db = getDatabase(firebaseApp);
+
 
 // ✅ Crear cliente de WhatsApp
 const client = new Client({
