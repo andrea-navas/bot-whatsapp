@@ -106,6 +106,17 @@ client.on('ready', async () => {
 // Inicializar cliente fuera del on('ready')
 client.initialize();
 
+// --- Servidor HTTP para Render ---
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.get('/', (req, res) => res.send('Bot activo'));
+
+app.listen(PORT, () => console.log(`Servidor web activo en puerto ${PORT}`));
+
+
+
 
 
 
